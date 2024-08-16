@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bookafe<br>Full Stack Web Projects<br>DevOps<br>PostgreSQL<br>
+Currently Working on Bookafe<br>Interested in Full Stack Web Projects<br>Exploring DevOps<br>Learning PostgreSQL<br>
 
 
 ## 🌐 Socials:
