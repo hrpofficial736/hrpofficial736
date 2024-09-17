@@ -8,10 +8,10 @@ A kid exploring tech world!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hrpofficial736@gmail.com](mailto:hrpofficial736@gmail.com)
-* 🚀  I'm currently working on [Bookafe](http://github.com/hrpofficial736/bookafe)
-* 🧠  I'm learning PostgreSQL
-* 🤝  I'm open to collaborating on Full Stack Web Projects
-* ⚡  I like Project Based Learning ( especially in Tech )
+* 🚀  I'm currently working on Flutter Projects
+* 🧠  I'm learning Docker
+* 🤝  I'm open to collaborating on Web and Mobile Projects
+* ⚡  I like Project Based Learning 
 
 <a href="https://www.github.com/hrpofficial736" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hrpofficial736?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
