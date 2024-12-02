@@ -8,9 +8,9 @@ A kid exploring tech world!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hrpofficial736@gmail.com](mailto:hrpofficial736@gmail.com)
-* 🚀  I'm currently working on [Bookafe](http://github.com/hrpofficial736/bookafe)
-* 🧠  I'm learning PostgreSQL
-* 🤝  I'm open to collaborating on Full Stack Web Projects
+* 🚀  I'm currently working on [BlogVerse](http://github.com/hrpofficial736/blogverse)
+* 🧠  I'm learning WebRTC
+* 🤝  I'm open to collaborating on Full Stack Web and Mobile App Projects and [Sociogram](http://github.com/hrpofficial736/sociogram)
 * ⚡  I like Project Based Learning ( especially in Tech )
 
 <a href="https://www.github.com/hrpofficial736" target="_blank" rel="noreferrer"><img
