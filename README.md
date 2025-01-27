@@ -8,7 +8,7 @@ A kid exploring tech world!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hrpofficial736@gmail.com](mailto:hrpofficial736@gmail.com)
-* 🚀  I'm currently working on [BlogVerse and Sociogram](http://github.com/hrpofficial736/blogverse)
+* 🚀  I'm currently working on [Resq](http://github.com/hrpofficial736/disaster-response-app)
 * 🧠  I'm learning PostgreSQL
 * 🤝  I'm open to collaborating on Full Stack Web Projects
 * ⚡  I like Project Based Learning ( especially in Tech )
